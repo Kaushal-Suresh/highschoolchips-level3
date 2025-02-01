@@ -14,3 +14,17 @@
 ![img26](https://github.com/user-attachments/assets/70b20818-5675-4e31-8f20-a5bf8c7e3507)
 ![img27](https://github.com/user-attachments/assets/5fc56fcc-9654-48b7-a291-0dd5fcc93fdb)
 ![img28](https://github.com/user-attachments/assets/42964bea-7823-4b61-b1ac-b3ca75ca7189)
+![img29](https://github.com/user-attachments/assets/360f6d3b-c2d2-4eef-a7d6-381f8696c2b3)
+![img30](https://github.com/user-attachments/assets/4e1fc73f-84a5-4192-a822-bb1371a70ce9)
+![img31](https://github.com/user-attachments/assets/17ca8e1c-f2b3-4bd3-85cd-243ea3209c8a)
+![img32](https://github.com/user-attachments/assets/f5a06e47-095f-462a-8fda-63cf4ff75e41)
+![img33](https://github.com/user-attachments/assets/5e820869-4541-42d7-b5ab-d5de8f12da64)
+![img34](https://github.com/user-attachments/assets/50cdc10a-3b32-4828-9cf0-19a98db98801)
+![img35](https://github.com/user-attachments/assets/947a9438-841d-44ad-8dfd-0de99ee8431b)
+![img36](https://github.com/user-attachments/assets/31b5ab3a-e5bf-4f61-8e27-3ba638a638a4)
+![img37](https://github.com/user-attachments/assets/8823db0a-6c1d-414b-921a-197fdf29c5b5)
+![img38](https://github.com/user-attachments/assets/2cae2562-b183-4dd6-928a-657b21ac81c3)
+
+## Sky130 Tech File Labs
+![img39](https://github.com/user-attachments/assets/dac2816d-132a-42e0-8dcd-b1d735b8cc19)
+![img40](https://github.com/user-attachments/assets/b4bc32ba-ab1d-4536-bbda-4364f9136dae)
