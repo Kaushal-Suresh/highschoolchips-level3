@@ -28,3 +28,6 @@
 ## Sky130 Tech File Labs
 ![img39](https://github.com/user-attachments/assets/dac2816d-132a-42e0-8dcd-b1d735b8cc19)
 ![img40](https://github.com/user-attachments/assets/b4bc32ba-ab1d-4536-bbda-4364f9136dae)
+![img41](https://github.com/user-attachments/assets/adc095d0-5fe9-4b69-9b00-eecb1aa65465)
+![img42](https://github.com/user-attachments/assets/89ac6079-979c-4211-ba40-b15ab92bd316)
+
